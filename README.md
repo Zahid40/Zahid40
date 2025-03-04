@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![alt text](https://zahid.vercel.app/api/github/image?text=Zahid&color=yell)
+![alt text](https://zahid.vercel.app/api/github/image)
 
 <!--
 **Zahid40/Zahid40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
